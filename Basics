@@ -1,0 +1,60 @@
+#print("hello world")
+
+#FOR STRINGS
+#name = ("Syed Rafay")
+#print(name)
+
+#FOR INTEGERS
+#age = 20
+#print(age)
+
+#FOR DECIMAL NUMBERS OR FLOAT
+#height = 5.9
+#print(height)
+
+#FOR BOOLEAN
+#is_student = True
+#print(is_student)
+#is_student = False
+#print(is_student)
+
+#FOR LISTS
+#Myfruits = ("apples,banana,pineapple.tomatoes")
+#print(Myfruits)
+
+#VARIABLES AND ASSIGNMENTS
+#x=5
+#y=6
+#print(x+y)
+#print(x-y)
+
+#BASIC OPERATIONS
+#x=5
+#y=4
+#addition=x+y #adds x and y
+#subtraction=x-y #subtracts x and y
+#multiplication=x*y #multiplies x and y
+#division=x/y #divides x and y but returns value in float
+#floor_division=x//y #divides x and y but returns answer in whole number
+#ceiling_division=x%y #divides x and y and returns only the remainder
+#exponent=x**y #x would be raised to the power of y
+#print(addition,subtraction,multiplication,division,floor_division,ceiling_division,exponent,exponent)
+
+#CONDITIONAL STATEMENTS
+#IF STATEMENT
+#age = 17
+#if age >= 18:
+#    print("you are an adult")
+#else :
+#    print("you are a teenager")
+
+#LOOPS
+#FOR LOOP
+#for i in range(5):
+    #print(i)
+
+#WHILE LOOP
+#count=0
+#while count<10:
+#    print(count)
+#    count+=1
